@@ -1,2 +1,0 @@
-# FaustContest
-Faust Contest Files
