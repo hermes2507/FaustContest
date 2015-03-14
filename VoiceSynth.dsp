@@ -1,6 +1,6 @@
 
 /*
-<Vowel Synthesizer V1.0, a voice synthesizer based on formant filters>
+<VoiceSynth V1.0, a voice synthesizer based on formant filters>
 Copyright (C) <2015>  <Santiago Rentería>
 
 This program is free software: you can redistribute it and/or modify
