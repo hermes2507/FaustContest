@@ -1,3 +1,3 @@
 # FaustContest
 
-Audio Programming and DSP
+Audio Programming and DSP in faust language
